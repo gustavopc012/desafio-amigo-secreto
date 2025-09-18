@@ -36,14 +36,5 @@ O **Desafio Amigo Secreto** consiste em criar uma aplicação simples e intuitiv
 
 ---
 
-## Estrutura de pastas do projeto
 
-A estrutura do projeto foi organizada da seguinte forma:
-
-amigo-secreto/
-│
-├── index.html # Estrutura principal da aplicação
-├── style.css # Arquivo de estilização visual
-├── script.js # Lógica do sorteio e manipulação da lista
-└── assets # Imagens utilizadas no projeto
 
